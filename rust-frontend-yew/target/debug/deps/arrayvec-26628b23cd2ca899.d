@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Code\Git\New folder\git\rust-frontend-yew\target\debug\deps\arrayvec-26628b23cd2ca899.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array_string.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\char.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\errors.rs
+
+C:\Users\pc\Desktop\Code\Git\New folder\git\rust-frontend-yew\target\debug\deps\libarrayvec-26628b23cd2ca899.rlib: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array_string.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\char.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\errors.rs
+
+C:\Users\pc\Desktop\Code\Git\New folder\git\rust-frontend-yew\target\debug\deps\arrayvec-26628b23cd2ca899.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\maybe_uninit.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array_string.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\char.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\errors.rs
+
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\lib.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\maybe_uninit.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\array_string.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\char.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\arrayvec-0.5.2\src\errors.rs:
