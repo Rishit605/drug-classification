@@ -1,9 +1,0 @@
-c:\Users\pc\Desktop\Code\Git\New folder\git\rust-frontend-yew\target\debug\deps\yew_router_route_parser-180104b6bdf93cbf.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\core.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\error.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\parser.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\optimizer.rs
-
-c:\Users\pc\Desktop\Code\Git\New folder\git\rust-frontend-yew\target\debug\deps\yew_router_route_parser-180104b6bdf93cbf.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\core.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\error.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\parser.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\optimizer.rs
-
-C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\lib.rs:
-C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\core.rs:
-C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\error.rs:
-C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\parser.rs:
-C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\yew-router-route-parser-0.15.0\src\optimizer.rs:
