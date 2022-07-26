@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Code\Git\New folder\git\chat-app\target\debug\deps\polyval-3d4919aabefe26df.rmeta: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\soft64.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\mulx.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\autodetect.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\clmul.rs
+
+C:\Users\pc\Desktop\Code\Git\New folder\git\chat-app\target\debug\deps\libpolyval-3d4919aabefe26df.rlib: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\soft64.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\mulx.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\autodetect.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\clmul.rs
+
+C:\Users\pc\Desktop\Code\Git\New folder\git\chat-app\target\debug\deps\polyval-3d4919aabefe26df.d: C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\lib.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\soft64.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\mulx.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\autodetect.rs C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\clmul.rs
+
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\lib.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\soft64.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\mulx.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\autodetect.rs:
+C:\Users\pc\.cargo\registry\src\github.com-1ecc6299db9ec823\polyval-0.5.3\src\backend\clmul.rs:
