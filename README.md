@@ -1,10 +1,6 @@
 # bioactivity-prediction-app
 
-# Watch the tutorial video
-
-[Bioinformatics Project from Scratch - Drug Discovery #6 (Deploy Model as Web App) | Streamlit #22](https://youtu.be/htBIP17S-20)
-
-<a href="https://youtu.be/m0sePkuyTKs"><img src="http://img.youtube.com/vi/m0sePkuyTKs/0.jpg" alt="Bioinformatics Project from Scratch - Drug Discovery #6 (Deploy Model as Web App) | Streamlit #22" title="Bioinformatics Project from Scratch - Drug Discovery #6 (Deploy Model as Web App) | Streamlit #22" width="400" /></a>
+**This app was made with the help of @dataprofessor 's  bioacitvity prediction ML tutorial**
 
 # Reproducing this web app
 To recreate this web app on your own computer, do the following.
